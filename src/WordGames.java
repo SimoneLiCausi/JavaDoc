@@ -12,7 +12,7 @@ public class WordGames {
     /**
      * @Autore: Simone Li Causi.
      * Questa è la classe principale dell'esercizio WordGames.
-     * All'interno troviamo due metodi: @addHelloWorld e @pgetFullName.
+     * All'interno troviamo due metodi: @addHelloWorld e @getFullName.
      * Il primo metodo aggiunge "Hello" all'inizio di una stringa
      * Il secondo metodo prende nome e cognome e li stampa concatenandoli.
      * Inoltre ho giocato un po' con il nostro codice, aggiungendo uno switch per rendere
